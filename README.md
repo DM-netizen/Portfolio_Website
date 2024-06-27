@@ -3,7 +3,7 @@ When we meet someone professionally, we introduce ourselves, we tell them about 
 skills, experiences, etc. What if we do it with the help of a website? Here comes the role 
 of <strong> portfolio website</strong>.<strong> A portfolio website </strong>is an ultimate way to introduce yourself, showcase 
 your work, skills, and blogs and let others reach out to you. <br>
-A new way to <strong>connect<strong> with people online for business as well as personal connections.
+A new way to <strong>connect</strong> with people online for business as well as personal connections.
 <hr>
 <h2>Features</h2>
 1.My Introduction
