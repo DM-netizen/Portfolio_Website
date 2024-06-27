@@ -1,0 +1,85 @@
+body{
+    color: darkslategray;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;    
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#About{
+    background-image:url(https://wallpapertag.com/wallpaper/full/6/2/f/139235-cool-powerpoint-backgrounds-1920x1200-pictures.jpg);
+    background-size:cover;
+    color: black;
+    padding:1em;
+    margin: 0;
+}
+
+#Projects{
+    background-color: bisque;
+    margin:0;
+    padding: 1em;
+    color: black;
+    
+}
+
+.main-element{
+    text-align: start;
+    padding: 0;
+    text-wrap: 1;
+}
+
+
+nav li{
+    display: inline;
+    margin: 0%;
+    text-align:center;
+    padding:0.5em;
+    justify-items: auto;
+    align-items: start;
+
+}
+
+.flex-container-1, .flex-container-2{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+    margin:auto;
+    flex-grow: 1em;
+}
+
+
+.flex-item{
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.YUnZzokSv17Jq55l8RPwigHaEK&pid=Api&P=0&h=180);
+    margin:2em;
+    background-size: cover;
+    flex: 1;
+    padding: 2em;
+    height: 200px;
+    font-size: 1.3em;
+    font-weight:bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    background-blend-mode:multiply;
+    
+    color: black;
+    box-sizing: border-box;
+    border-radius: 10%;
+}
+
+.flex-item:hover{
+    color:darkblue;
+    flex: 2;
+}
+
+.flex-item button:checked{
+    background-color: palegoldenrod;
+    
+}
